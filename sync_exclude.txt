@@ -1,0 +1,16 @@
+analytics-logs/*
+plugins-osgi-cache/*
+lock
+thumbnails/*
+logs/*
+plugins-temp/*
+plugins-cache/*
+temp/*
+webresource-temp/*
+caches/*
+log/*
+tmp/*
+*.log
+.*
+2019-11-1*
+2019-11-2*
